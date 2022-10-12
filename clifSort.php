@@ -18,7 +18,7 @@ function clifSort($arr)
 }
 
 
-$arr = [9,10,8,7,8,74,2,5,9,101];
+$arr = [-1, 9,10,8,7,8,-2,74,2,5,9,101, 0, -5];
 
 print_r(clifSort($arr));
 ?>
