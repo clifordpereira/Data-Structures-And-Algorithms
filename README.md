@@ -17,3 +17,7 @@ twoWayMergeSortIterative():
    - https://www.youtube.com/watch?v=mB5HXBb_HY8&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=37
    - https://www.javatpoint.com/merge-sort
    - https://www.geeksforgeeks.org/merge-sort/
+
+quickSort():
+- for sorting
+- reference: https://www.youtube.com/watch?v=7h1s2SojIRw&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=37
