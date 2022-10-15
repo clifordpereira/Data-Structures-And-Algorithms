@@ -21,3 +21,7 @@ twoWayMergeSortIterative():
 quickSort():
 - for sorting
 - reference: https://www.youtube.com/watch?v=7h1s2SojIRw&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=37
+
+MultiStageGraph
+- for finding the minimun cost and shortest path for a given graph
+- reference: https://www.youtube.com/watch?v=FcScLYJI42E&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=48
